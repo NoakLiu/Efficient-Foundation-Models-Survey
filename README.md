@@ -18,6 +18,15 @@
 | **Knowledge distillation for closed-source language models** | 2024 | Knowledge Distillation | [Link](https://arxiv.org/abs/2401.07013) |
 | **Flamingo: A visual language model for few-shot learning** | 2022 | Knowledge Distillation | [Link](https://arxiv.org/abs/2204.14198) |
 | **In-context learning distillation: Transferring few-shot learning ability of pre-trained language models** | 2022 | Knowledge Distillation | [Link](https://arxiv.org/abs/2212.10670) |
+| **Less is more: Task-aware layer-wise distillation for language model compression** | 2022 | Knowledge Distillation | [Link](https://arxiv.org/abs/2210.01351) |
+| **Knowledge Distillation for Closed-Source Language Models** | 2024 | Knowledge Distillation | [Link](https://openreview.net/pdf?id=oj4KUNoKnf) |
+| **MiniLLM: Knowledge distillation of large language models** | 2024 | Knowledge Distillation | [Link](https://arxiv.org/pdf/2306.08543) |
+| **Baby llama: knowledge distillation from an ensemble of teachers trained on a small dataset with no performance penalty** | 2023 | Knowledge Distillation | [Link](https://arxiv.org/pdf/2308.02019) |
+| **Propagating knowledge updates to lms through distillation** | 2023 | Knowledge Distillation | [Link](https://arxiv.org/pdf/2306.09306) |
+| **On-policy distillation of language models: Learning from self-generated mistakes** | 2024 | Knowledge Distillation | [Link](https://arxiv.org/pdf/2306.13649) |
+| **Metaicl: Learning to learn in context** | 2022 | Knowledge Distillation | [Link](https://arxiv.org/pdf/2110.15943) |
+| **In-context learning distillation: Transferring few-shot learning ability of pre-trained language models** | 2022 | Knowledge Distillation | [Link](https://arxiv.org/pdf/2212.10670) |
+| **Multistage collaborative knowledge distillation from a large language model for semi-supervised sequence generation** | 2024 | Knowledge Distillation | [Link](https://arxiv.org/pdf/2311.08640) |
 
 ### Pruning
 | Article Title | Year | Subfield | Link |
