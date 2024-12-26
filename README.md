@@ -10,6 +10,17 @@
 | **Sparse-quantized representation for near-lossless LLM weight compression** | 2023 | Quantization | [Link](https://arxiv.org/abs/2306.03078) |
 | **GPTQ: Accurate post-training quantization for generative pre-trained transformers** | 2022 | Quantization | [Link](https://arxiv.org/abs/2210.17323) |
 | **Llama.int8(): 8-bit matrix multiplication for transformers at scale** | 2022 | Quantization | [Link](https://arxiv.org/abs/2205.14135) |
+| **Llm-qat: Data-free quantization aware training for large language models** | 2023 | Quantization | [Link](https://arxiv.org/abs/2305.17888) |
+| **Bitdistiller: Unleashing the potential of sub-4-bit llms via self-distillation** | 2024 | Quantization | [Link](https://arxiv.org/abs/2402.10631) |
+| **OneBit: Towards Extremely Low-bit Large Language Models** | 2024 | Quantization | [Link](https://arxiv.org/abs/2402.11295) |
+| **QLoRA: efficient finetuning of quantized LLMs** | 2023 | Quantization | [Link](https://arxiv.org/abs/2305.14314) |
+| **Memory-efficient fine-tuning of compressed large language models via sub-4-bit integer quantization** | 2023 | Quantization | [Link](https://arxiv.org/abs/2305.14152) |
+| **Loftq: Lora-fine-tuning-aware quantization for large language models** | 2023 | Quantization | [Link](https://arxiv.org/abs/2310.08659) |
+| **L4q: Parameter efficient quantization-aware training on large language models via lora-wise lsq** | 2024 | Quantization | [Link](https://arxiv.org/abs/2402.04902) |
+| **Qa-lora: Quantization-aware low-rank adaptation of large language models** | 2023 | Quantization | [Link](https://arxiv.org/abs/2309.14717) |
+| **Efficientqat: Efficient quantization-aware training for large language models** | 2024 | Quantization | [Link](https://arxiv.org/abs/2407.11062) |
+| **Accurate lora-finetuning quantization of llms via information retention** | 2024 | Quantization | [Link](https://arxiv.org/abs/2402.05445) |
+| **EdgeQAT: Entropy and Distribution Guided Quantization-Aware Training for the Acceleration of Lightweight LLMs on the Edge** | 2024 | Quantization | [Link](https://arxiv.org/abs/2402.10787) |
 
 ### Distillation
 | Article Title | Year | Subfield | Link |
