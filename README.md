@@ -54,6 +54,19 @@
 | --- | --- | --- | --- |
 | **PyramidKV: Dynamic KV cache compression based on pyramidal information funneling** | 2024 | KV Cache Compression | [Link](https://arxiv.org/abs/2406.02069) |
 | **Quest: Query-aware sparsity for long-context transformers** | 2024 | KV Cache Compression | [Link](https://arxiv.org/abs/2401.07013) |
+| **ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification and KV Cache Compression** | 2024 | KV Cache Compression | [Link](https://arxiv.org/abs/2410.08584) |
+| **VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration** | 2024 | KV Cache Compression | [Link](https://arxiv.org/abs/2410.23317) |
+
+## Token Sparsification
+
+| Article Title | Year | Subfield | Link |
+| --- | --- | --- | --- |
+| **DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification** | 2021 | Dynamic Token Sparsification | [Link](https://arxiv.org/abs/2104.04482) |
+| **A-ViT: Adaptive Tokens for Efficient Vision Transformer** | 2022 | Adaptive Tokens | [Link](https://arxiv.org/abs/2206.02696) |
+| **Quest: Query-Aware Sparsity for Long-Context Transformers** | 2024 | Query-Aware Sparsity | [Link](https://arxiv.org/abs/2401.07013) |
+| **Token-Level Transformer Pruning** | 2022 | Token Pruning | [Link](https://arxiv.org/abs/2203.03229) |
+| **Token Merging: Your ViT but Faster** | 2023 | Token Merging | [Link](http://arxiv.org/abs/2210.09461) |
+
 
 ### Cache Eviction
 | Article Title | Year | Subfield | Link |
@@ -73,6 +86,22 @@
 | **Light-PEFT: Lightening parameter-efficient fine-tuning via early pruning** | 2024 | Fine-Tuning | [Link](https://arxiv.org/abs/2406.03792) |
 | **Minillm: Knowledge distillation of large language models** | 2024 | Knowledge Distillation | [Link](https://openreview.net/forum?id=OdnNBxlShZG) |
 
+## Retrieval-Augmented Models
+
+| Article Title | Year | Subfield | Link |
+| --- | --- | --- | --- |
+| **REALM: Retrieval-Augmented Language Model Pre-Training** | 2020 | Retrieval-Augmented Models | [Link](https://arxiv.org/abs/2002.08909) |
+| **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks** | 2020 | Retrieval-Augmented Models | [Link](https://arxiv.org/abs/2005.11401) |
+
+## Transformer Architecture Improvements
+
+| Article Title | Year | Subfield | Link |
+| --- | --- | --- | --- |
+| **Roformer: Enhanced Transformer with Rotary Position Embedding** | 2021 | Positional Embedding | [Link](https://arxiv.org/abs/2104.09864) |
+| **Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned** | 2019 | Self-Attention Analysis | [Link](https://arxiv.org/abs/1904.02813) |
+| **Sixteen Heads Are Better Than One: Attention Mechanisms in Transformers** | 2019 | Multi-Head Attention | [Link](https://arxiv.org/abs/1907.00263) |
+
+
 ## Model-Sys Co-Design
 
 ### Mixed Precision Training
@@ -86,4 +115,6 @@
 | --- | --- | --- | --- |
 | **Effective methods for improving interpretability in reinforcement learning models** | 2021 | Fine-Tuning | [Link](https://link.springer.com/article/10.1007/s10462-021-09984-x) |
 | **Sparse-pruning for accelerating transformer models** | 2023 | Pruning and Optimization | [Link](https://arxiv.org/abs/2305.14135) |
+| **Efficient Fine-Tuning and Compression of Large Language Models with Low-Rank Adaptation and Pruning** | 2023 | Fine-Tuning and Compression | [Link](https://arxiv.org/abs/2302.08582) |
+| **Layer-wise Knowledge Distillation for BERT Fine-Tuning** | 2022 | Knowledge Distillation | [Link](https://arxiv.org/abs/2204.05155) |
 
