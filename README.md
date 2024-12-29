@@ -45,25 +45,25 @@
 
 ### Pruning
 
-| Article Title                                                                                                       | Year | Subfield                   | Link                                                 |
-| ------------------------------------------------------------------------------------------------------------------- | ---- | -------------------------- | ---------------------------------------------------- |
-| **SparseGPT: Massive language models can be accurately pruned in one-shot**                                         | 2023 | Unstructured; Saliency     | [Link](https://arxiv.org/abs/2303.12712)             |
-| **A simple and effective pruning approach for large language models**                                               | 2023 | Unstructured; Saliency     | [Link](https://arxiv.org/abs/2306.11695)             |
-| **One-shot sensitivity-aware mixed sparsity pruning for large language models**                                     | 2024 | Unstructured; Saliency     | [Link](https://arxiv.org/abs/2310.09499)             |
-| **Pruning as a Domain-specific LLM Extractor**                                                                      | 2024 | Unstructured; Saliency     | [Link](https://arxiv.org/abs/2405.06275)             |
-| **Plug-and-play: An efficient post-training pruning method for large language models**                              | 2024 | Unstructured; Saliency     | [Link](https://openreview.net/forum?id=Tr0lPx9woF)   |
-| **Pruner-Zero: Evolving Symbolic Pruning Metric from scratch for Large Language Models**                            | 2024 | Unstructured; Saliency     | [Link](https://arxiv.org/abs/2406.02924)             |
-| **Prune and tune: Improving efficient pruning techniques for massive language models**                              | 2023 | Unstructured; Saliency     | [Link](https://openreview.net/forum?id=cKlgcx7nSZ)   |
-| **Language-Specific Pruning for Efficient Reduction of Large Language Models**                                      | 2024 | Unstructured; Saliency     | [Link](https://aclanthology.org/2024.unlp-1.16.pdf)  |
-| **Besa: Pruning large language models with blockwise parameter-efficient sparsity allocation**                      | 2024 | Unstructured; Optimization | [Link](https://arxiv.org/abs/2402.16880)             |
-| **LLM-Pruner: On the structural pruning of large language models**                                                  | 2023 | Structured; Saliency       | [Link](https://arxiv.org/abs/2305.11627)             |
-| **Fluctuation-based adaptive structured pruning for large language models**                                         | 2024 | Structured; Saliency       | [Link](https://arxiv.org/abs/2312.11983)             |
-| **Structured Pruning for Large Language Models Using Coupled Components Elimination and Minor Fine-tuning**         | 2024 | Structured; Saliency       | [Link](https://openreview.net/forum?id=riVdVAhCRazh) |
-| **Sheared llama: Accelerating language model pre-training via structured pruning**                                  | 2023 | Structured; Optimization   | [Link](https://arxiv.org/abs/2310.06694)             |
-| **NASH: A Simple Unified Framework of Structured Pruning for Accelerating Encoder-Decoder Language Models**         | 2023 | Structured                 | [Link](https://arxiv.org/abs/2310.10054)             |
-| **Light-PEFT: Lightening Parameter-Efficient Fine-Tuning via Early Pruning**                                        | 2024 | Structured; PEFT           | [Link](https://arxiv.org/abs/2406.03792)             |
-| **LoRAPrune: Structured Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**                                    | 2024 | Structured; PEFT           | [Link](https://arxiv.org/abs/2305.18403)             |
-| Flash-llm: Enabling cost-effective and highly-efficient large generative model inference with unstructured sparsity | 2023 | Infrastructure             | [Link](https://arxiv.org/abs/2309.10285)             |
+| Article Title                                                                                                           | Year | Subfield                   | Link                                                 |
+| ----------------------------------------------------------------------------------------------------------------------- | ---- | -------------------------- | ---------------------------------------------------- |
+| **SparseGPT: Massive language models can be accurately pruned in one-shot**                                             | 2023 | Unstructured; Saliency     | [Link](https://arxiv.org/abs/2303.12712)             |
+| **A simple and effective pruning approach for large language models**                                                   | 2023 | Unstructured; Saliency     | [Link](https://arxiv.org/abs/2306.11695)             |
+| **One-shot sensitivity-aware mixed sparsity pruning for large language models**                                         | 2024 | Unstructured; Saliency     | [Link](https://arxiv.org/abs/2310.09499)             |
+| **Pruning as a Domain-specific LLM Extractor**                                                                          | 2024 | Unstructured; Saliency     | [Link](https://arxiv.org/abs/2405.06275)             |
+| **Plug-and-play: An efficient post-training pruning method for large language models**                                  | 2024 | Unstructured; Saliency     | [Link](https://openreview.net/forum?id=Tr0lPx9woF)   |
+| **Pruner-Zero: Evolving Symbolic Pruning Metric from scratch for Large Language Models**                                | 2024 | Unstructured; Saliency     | [Link](https://arxiv.org/abs/2406.02924)             |
+| **Prune and tune: Improving efficient pruning techniques for massive language models**                                  | 2023 | Unstructured; Saliency     | [Link](https://openreview.net/forum?id=cKlgcx7nSZ)   |
+| **Language-Specific Pruning for Efficient Reduction of Large Language Models**                                          | 2024 | Unstructured; Saliency     | [Link](https://aclanthology.org/2024.unlp-1.16.pdf)  |
+| **Besa: Pruning large language models with blockwise parameter-efficient sparsity allocation**                          | 2024 | Unstructured; Optimization | [Link](https://arxiv.org/abs/2402.16880)             |
+| **LLM-Pruner: On the structural pruning of large language models**                                                      | 2023 | Structured; Saliency       | [Link](https://arxiv.org/abs/2305.11627)             |
+| **Fluctuation-based adaptive structured pruning for large language models**                                             | 2024 | Structured; Saliency       | [Link](https://arxiv.org/abs/2312.11983)             |
+| **Structured Pruning for Large Language Models Using Coupled Components Elimination and Minor Fine-tuning**             | 2024 | Structured; Saliency       | [Link](https://openreview.net/forum?id=riVdVAhCRazh) |
+| **Sheared llama: Accelerating language model pre-training via structured pruning**                                      | 2023 | Structured; Optimization   | [Link](https://arxiv.org/abs/2310.06694)             |
+| **NASH: A Simple Unified Framework of Structured Pruning for Accelerating Encoder-Decoder Language Models**             | 2023 | Structured                 | [Link](https://arxiv.org/abs/2310.10054)             |
+| **Light-PEFT: Lightening Parameter-Efficient Fine-Tuning via Early Pruning**                                            | 2024 | Structured; PEFT           | [Link](https://arxiv.org/abs/2406.03792)             |
+| **LoRAPrune: Structured Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning**                                        | 2024 | Structured; PEFT           | [Link](https://arxiv.org/abs/2305.18403)             |
+| **Flash-llm: Enabling cost-effective and highly-efficient large generative model inference with unstructured sparsity** | 2023 | Infrastructure             | [Link](https://arxiv.org/abs/2309.10285)             |
 
 ## System Design
 
