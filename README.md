@@ -57,8 +57,9 @@
 | **Quest: Query-aware sparsity for long-context transformers** | 2024 | KV Cache Compression | [Link](https://arxiv.org/abs/2401.07013) |
 | **ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification and KV Cache Compression** | 2024 | KV Cache Compression | [Link](https://arxiv.org/abs/2410.08584) |
 | **VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration** | 2024 | KV Cache Compression | [Link](https://arxiv.org/abs/2410.23317) |
+| **Token merging: Your ViT but faster** | 2023 | Cache Eviction | [Link](http://arxiv.org/abs/2210.09461) |
 
-## Token Sparsification
+### Token Sparsification
 
 | Article Title | Year | Subfield | Link |
 | --- | --- | --- | --- |
@@ -72,12 +73,15 @@
 ### Cache Eviction
 | Article Title | Year | Subfield | Link |
 | --- | --- | --- | --- |
-| **FlashAttention: Fast and memory-efficient exact attention with I/O-awareness** | 2022 | Cache Eviction | [Link](https://arxiv.org/abs/2205.14135) |
-| **Token merging: Your ViT but faster** | 2023 | Cache Eviction | [Link](http://arxiv.org/abs/2210.09461) |
+| **HashEvict: A Pre-Attention KV Cache Eviction Strategy using Locality-Sensitive Hashing** | 2024 | Cache Eviction, Locality-Sensitive Hashing | [Link](https://arxiv.org/abs/2412.16187) |
+| **Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference** | 2024 | Adaptive Budget Allocation, Cache Eviction | [Link](https://arxiv.org/abs/2407.11550) |
+| **No Token Left Behind: Reliable KV Cache Compression via Importance-Aware Mixed Precision Quantization** | 2024 | Cache Compression, Mixed Precision Quantization | [Link](https://arxiv.org/abs/2402.18096) |
+
 
 ### Memory Management
 | Article Title | Year | Subfield | Link |
 | --- | --- | --- | --- |
+| **FlashAttention: Fast and memory-efficient exact attention with I/O-awareness** | 2022 | Cache Eviction | [Link](https://arxiv.org/abs/2205.14135) |
 | **ZipVL: Efficient large vision-language models with dynamic token sparsification and KV cache compression** | 2024 | Memory Management | [Link](https://arxiv.org/abs/2410.08584) |
 | **Memory use of GPT-J 6B** | 2021 | Memory Management | [Link](https://discuss.huggingface.co/t/memory-use-of-gpt-j-6b/10078) |
 | **An Evolved Universal Transformer Memory** | 2024 | Neural Attention Memory Models | [Link](https://arxiv.org/abs/2410.13166) |
