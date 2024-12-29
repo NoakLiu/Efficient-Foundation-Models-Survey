@@ -162,7 +162,7 @@
 | **Linformer: Self-Attention with Linear Complexity** | 2020 | Attention Mechanisms | [Link](https://arxiv.org/abs/2006.04768) |
 | **BigBird: Transformers for Longer Sequences** | 2020 | Long-Sequence Transformers | [Link](https://arxiv.org/abs/2007.14062) |
 | **SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers** | 2021 | Semantic Segmentation | [Link](https://proceedings.neurips.cc/paper/2021/file/64f1f27bf1b4ec22924fd0acb550c235-Paper.pdf) |
-| **MixFormerV2: Efficient Fully Transformer Tracking** | 2023 | Object Tracking | [Link](https://papers.neurips.cc/paper_files/paper/2023/file/b7870bd43b2d133a1ed95582ae5d82a4-Paper
+| **MixFormerV2: Efficient Fully Transformer Tracking** | 2023 | Object Tracking | [Link](https://papers.neurips.cc/paper_files/paper/2023/file/b7870bd43b2d133a1ed95582ae5d82a4-Paper) |
 
 
 
