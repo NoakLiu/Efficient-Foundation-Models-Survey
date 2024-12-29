@@ -58,6 +58,16 @@
 | **ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification and KV Cache Compression** | 2024 | KV Cache Compression | [Link](https://arxiv.org/abs/2410.08584) |
 | **VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration** | 2024 | KV Cache Compression | [Link](https://arxiv.org/abs/2410.23317) |
 | **Token merging: Your ViT but faster** | 2023 | Cache Eviction | [Link](http://arxiv.org/abs/2210.09461) |
+| **KV Cache is 1 Bit Per Channel: Efficient Large Language Model Inference with Coupled Quantization** | 2024 | KV Cache Compression, Quantization | [Link](https://arxiv.org/abs/2405.03917) |
+| **Layer-Condensed KV Cache for Efficient Inference of Large Language Models** | 2024 | KV Cache Optimization, Memory Efficiency | [Link](https://arxiv.org/abs/2405.10637) |
+| **InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management** | 2024 | Dynamic KV Cache Management, Long-Text Generation | [Link](https://arxiv.org/abs/2406.19707) |
+| **KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing** | 2024 | KV Cache Sharing, Memory Optimization | [Link](https://arxiv.org/abs/2410.18517) |
+| **MiniCache: KV Cache Compression in Depth Dimension for Large Language Models** | 2024 | KV Cache Compression, Depth Dimension | [Link](https://arxiv.org/abs/2405.14366) |
+| **Unifying KV Cache Compression for Large Language Models with LeanKV** | 2024 | KV Cache Compression, Unified Framework | [Link](https://arxiv.org/abs/2412.03131) |
+| **Efficient LLM Inference with I/O-Aware Partial KV Cache Offloading** | 2024 | KV Cache Offloading, I/O Optimization | [Link](https://arxiv.org/abs/2411.17089) |
+| **LayerKV: Optimizing Large Language Model Serving with Layer-wise KV Cache Offloading** | 2024 | KV Cache Offloading, Serving Optimization | [Link](https://arxiv.org/abs/2410.00428) |
+| **A Method for Building Large Language Models with Predefined KV Cache Capacity** | 2024 | KV Cache Management, Predefined Capacity | [Link](https://arxiv.org/abs/2411.15785) |
+| **D2O: Dynamic Discriminative Operations for Efficient Generative Inference of Large Language Models** | 2024 | Dynamic Operations, KV Cache Optimization | [Link](https://arxiv.org/abs/2406.13035) |
 
 ### Token Sparsification
 
@@ -68,14 +78,28 @@
 | **Quest: Query-Aware Sparsity for Long-Context Transformers** | 2024 | Query-Aware Sparsity | [Link](https://arxiv.org/abs/2401.07013) |
 | **Token-Level Transformer Pruning** | 2022 | Token Pruning | [Link](https://arxiv.org/abs/2203.03229) |
 | **Token Merging: Your ViT but Faster** | 2023 | Token Merging | [Link](http://arxiv.org/abs/2210.09461) |
+| **LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference** | 2024 | Dynamic Token Pruning | [Link](https://arxiv.org/abs/2407.14057) |
+| **Q-Hitter: A Better Token Oracle for Efficient LLM Inference via Sparse-Quantized KV Cache** | 2024 | Token Oracle, Sparse-Quantized KV Cache | [Link](https://proceedings.mlsys.org/paper_files/paper/2024/file/bbb7506579431a85861a05fff048d3e1-Paper-Conference.pdf) |
+| **Video Token Sparsification for Efficient Multimodal LLMs in Autonomous Driving** | 2024 | Video Token Sparsification, Multimodal LLMs | [Link](https://arxiv.org/abs/2409.11182) |
+| **Efficient Token Sparsification Through the Lens of Infused Knowledge** | 2024 | Token Sparsification, Infused Knowledge | [Link](https://ieeexplore.ieee.org/document/10706518) |
+| **Tandem Transformers for Inference Efficient LLMs** | 2024 | Tandem Transformers, Inference Efficiency | [Link](https://arxiv.org/abs/2402.08644) |
+| **CHESS: Optimizing LLM Inference via Channel-Wise Activation Sparsification** | 2024 | Activation Sparsification, LLM Optimization | [Link](https://arxiv.org/abs/2409.01366) |
+| **FlightLLM: Efficient Large Language Model Inference with a Complete Compression Strategy** | 2024 | Compression Strategy, LLM Inference | [Link](https://arxiv.org/abs/2401.03868) |
+| **Sparse Expansion and Neuronal Disentanglement** | 2024 | Sparse Expansion, Neuronal Disentanglement | [Link](https://arxiv.org/abs/2405.15756) |
+| **Efficient LLM Inference using Dynamic Input Pruning and Activation Sparsity** | 2024 | Input Pruning, Activation Sparsity | [Link](https://arxiv.org/abs/2412.01380) |
+| **Sparsity for Efficient LLM Inference** | 2024 | Sparsity Techniques, LLM Efficiency | [Link](https://llm-class.github.io/slides/Kai_Sheng_Tai.pdf) |
 
 
-### Cache Eviction
+### Efficient Cache Eviction
 | Article Title | Year | Subfield | Link |
 | --- | --- | --- | --- |
 | **HashEvict: A Pre-Attention KV Cache Eviction Strategy using Locality-Sensitive Hashing** | 2024 | Cache Eviction, Locality-Sensitive Hashing | [Link](https://arxiv.org/abs/2412.16187) |
 | **Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference** | 2024 | Adaptive Budget Allocation, Cache Eviction | [Link](https://arxiv.org/abs/2407.11550) |
-| **No Token Left Behind: Reliable KV Cache Compression via Importance-Aware Mixed Precision Quantization** | 2024 | Cache Compression, Mixed Precision Quantization | [Link](https://arxiv.org/abs/2402.18096) |
+| **NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time** | 2024 | General Framework, Cache Management | [Link](https://arxiv.org/abs/2408.03675) |
+| **In-context KV-Cache Eviction for LLMs via Attention-Gate** | 2024 | Attention-Gate, Dynamic Cache Eviction | [Link](https://arxiv.org/abs/2410.12876) |
+| **Layer-Condensed KV Cache for Efficient Inference of Large Language Models** | 2024 | Layer Compression, Memory Efficiency | [Link](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/acl24lckv.pdf) |
+| **D2O: Dynamic Discriminative Operations for Efficient Generative Inference of Large Language Models** | 2024 | Dynamic Operations, KV Cache Optimization | [Link](https://arxiv.org/abs/2406.13035) |
+| **H₂O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models** | 2023 | Heavy-Hitter Tokens, Cache Efficiency | [Link](https://arxiv.org/abs/2306.14048) |
 
 
 ### Memory Management
@@ -99,21 +123,47 @@
 | **AdaMV-MoE: Adaptive Multi-Task Vision Mixture-of-Experts** | 2024 | Vision, Multi-Task Learning | [Link](https://paperswithcode.com/paper/adamv-moe-adaptive-multi-task-vision-mixture) |
 | **DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding** | 2024 | Vision-Language, Multimodal Models | [Link](https://arxiv.org/abs/2412.10302) |
 | **Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts** | 2024 | Multimodal LLMs, Unified Models | [Link](https://paperswithcode.com/paper/uni-moe-scaling-unified-multimodal-llms-with) |
+| **DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models** | 2024 | Language Models, Expert Specialization | [Link](https://arxiv.org/abs/2401.06066) |
+| **OLMoE: Open Mixture-of-Experts Language Models** | 2024 | Language Models, Open-Source MoE | [Link](https://openreview.net/forum?id=xXTkbTBmqq) |
+| **MH-MoE: Multi-Head Mixture-of-Experts** | 2024 | Multi-Head Attention, MoE | [Link](https://arxiv.org/abs/2411.16205) |
+| **Mixture of LoRA Experts** | 2024 | Parameter-Efficient Fine-Tuning, MoE | [Link](https://openreview.net/forum?id=uWvKBCYh4S) |
+| **From Sparse to Soft Mixtures of Experts** | 2024 | Soft MoE, Differentiable Routing | [Link](https://openreview.net/forum?id=jxpsAj7ltE) |
+| **A Survey on Mixture of Experts** | 2024 | Survey, MoE Architectures | [Link](https://arxiv.org/abs/2407.06204) |
 
-## Retrieval-Augmented Models
+
+## Efficient Retrieval-Augmented Models
 
 | Article Title | Year | Subfield | Link |
 | --- | --- | --- | --- |
 | **REALM: Retrieval-Augmented Language Model Pre-Training** | 2020 | Retrieval-Augmented Models | [Link](https://arxiv.org/abs/2002.08909) |
 | **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks** | 2020 | Retrieval-Augmented Models | [Link](https://arxiv.org/abs/2005.11401) |
+| **BTR: Binary Token Representations for Efficient Retrieval Augmented Language Models** | 2023 | Model Efficiency, Token Compression | [Link](https://arxiv.org/abs/2310.01329) |
+| **FlashBack: Efficient Retrieval-Augmented Language Modeling for Long Context Inference** | 2024 | Long Context Inference, Model Efficiency | [Link](https://arxiv.org/abs/2405.04065) |
+| **REPLUG: Retrieval-Augmented Black-Box Language Models** | 2023 | Black-Box Models, Retrieval Integration | [Link](https://arxiv.org/abs/2301.12652) |
+| **KG-Retriever: Efficient Knowledge Indexing for Retrieval-Augmented Large Language Models** | 2024 | Knowledge Indexing, Large Language Models | [Link](https://arxiv.org/abs/2412.05547) |
+| **Open-RAG: Enhanced Retrieval Augmented Reasoning with Open-Source Large Language Models** | 2024 | Open-Source Models, Reasoning Enhancement | [Link](https://aclanthology.org/2024.findings-emnlp.831/) |
+| **ERAGent: Enhancing Retrieval-Augmented Language Models with Improved Retrieval and Generation** | 2024 | Retrieval Improvement, Generation Enhancement | [Link](https://arxiv.org/abs/2405.06683) |
+| **RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit** | 2023 | Toolkit, Model Integration | [Link](https://arxiv.org/abs/2306.05212) |
+| **Making Retrieval-Augmented Language Models Robust to Irrelevant Documents** | 2023 | Model Robustness, Document Relevance | [Link](https://arxiv.org/abs/2310.01558) |
 
-## Transformer Architecture Improvements
+
+## Efficient Transformer Architecture Design
 
 | Article Title | Year | Subfield | Link |
 | --- | --- | --- | --- |
 | **Roformer: Enhanced Transformer with Rotary Position Embedding** | 2021 | Positional Embedding | [Link](https://arxiv.org/abs/2104.09864) |
 | **Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned** | 2019 | Self-Attention Analysis | [Link](https://arxiv.org/abs/1904.02813) |
 | **Sixteen Heads Are Better Than One: Attention Mechanisms in Transformers** | 2019 | Multi-Head Attention | [Link](https://arxiv.org/abs/1907.00263) |
+| **TinyFormer: Efficient Transformer Design and Deployment on Tiny Devices** | 2023 | Tiny Devices, NAS | [Link](https://arxiv.org/abs/2311.01759) |
+| **Efficient Transformers: A Survey** | 2020 | Transformer Survey, Efficiency | [Link](https://arxiv.org/abs/2009.06732) |
+| **Neural Architecture Search on Efficient Transformers and Beyond** | 2022 | NAS, Transformer Optimization | [Link](https://arxiv.org/abs/2207.13955) |
+| **TurboViT: Generating Fast Vision Transformers via Generative Architecture Search** | 2023 | Vision Transformers, GAS | [Link](https://arxiv.org/abs/2308.11421) |
+| **HAT: Hardware-Aware Transformers for Efficient Natural Language Processing** | 2020 | Hardware-Aware Design, NLP | [Link](https://arxiv.org/abs/2005.14187) |
+| **Linformer: Self-Attention with Linear Complexity** | 2020 | Attention Mechanisms | [Link](https://arxiv.org/abs/2006.04768) |
+| **BigBird: Transformers for Longer Sequences** | 2020 | Long-Sequence Transformers | [Link](https://arxiv.org/abs/2007.14062) |
+| **SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers** | 2021 | Semantic Segmentation | [Link](https://proceedings.neurips.cc/paper/2021/file/64f1f27bf1b4ec22924fd0acb550c235-Paper.pdf) |
+| **MixFormerV2: Efficient Fully Transformer Tracking** | 2023 | Object Tracking | [Link](https://papers.neurips.cc/paper_files/paper/2023/file/b7870bd43b2d133a1ed95582ae5d82a4-Paper
+
 
 
 ## Model-Sys Co-Design
@@ -123,6 +173,13 @@
 | --- | --- | --- | --- |
 | **Power-BERT: Accelerating BERT inference via progressive word-vector elimination** | 2020 | Mixed Precision | [Link](https://arxiv.org/abs/2005.12345) |
 | **Learning both weights and connections for efficient neural network** | 2015 | Mixed Precision | [Link](https://arxiv.org/abs/1803.03635) |
+| **Mixed Precision Training** | 2018 | Training Optimization | [Link](https://arxiv.org/abs/1710.03740) |
+| **Mixed Precision Training of Convolutional Neural Networks using Integer Operations** | 2018 | Integer Operations, CNNs | [Link](https://arxiv.org/abs/1802.00930) |
+| **Highly Scalable Deep Learning Training System with Mixed-Precision: Training ImageNet in Four Minutes** | 2018 | Scalability, Training Systems | [Link](https://arxiv.org/abs/1807.11205) |
+| **Guaranteed Approximation Bounds for Mixed-Precision Neural Operators** | 2023 | Neural Operators, Approximation Theory | [Link](https://arxiv.org/abs/2307.15034) |
+| **Training with Mixed-Precision Floating-Point Assignments** | 2023 | Floating-Point Precision, Training Algorithms | [Link](https://arxiv.org/abs/2301.13464) |
+| **Mixed-precision deep learning based on computational memory** | 2020 | Computational Memory, Model Efficiency | [Link](https://arxiv.org/abs/2001.11773) |
+| **No Token Left Behind: Reliable KV Cache Compression via Importance-Aware Mixed Precision Quantization** | 2024 | Cache Compression, Mixed Precision Quantization | [Link](https://arxiv.org/abs/2402.18096) |
 
 ### Fine-Tuning with System Optimization
 | Article Title | Year | Subfield | Link |
