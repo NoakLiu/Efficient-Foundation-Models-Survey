@@ -38,6 +38,7 @@
 | **Metaicl: Learning to learn in context** | 2022 | Knowledge Distillation | [Link](https://arxiv.org/pdf/2110.15943) |
 | **In-context learning distillation: Transferring few-shot learning ability of pre-trained language models** | 2022 | Knowledge Distillation | [Link](https://arxiv.org/pdf/2212.10670) |
 | **Multistage collaborative knowledge distillation from a large language model for semi-supervised sequence generation** | 2024 | Knowledge Distillation | [Link](https://arxiv.org/pdf/2311.08640) |
+| **Minillm: Knowledge distillation of large language models** | 2024 | Knowledge Distillation | [Link](https://openreview.net/forum?id=OdnNBxlShZG) |
 
 ### Pruning
 | Article Title | Year | Subfield | Link |
@@ -79,12 +80,21 @@
 | --- | --- | --- | --- |
 | **ZipVL: Efficient large vision-language models with dynamic token sparsification and KV cache compression** | 2024 | Memory Management | [Link](https://arxiv.org/abs/2410.08584) |
 | **Memory use of GPT-J 6B** | 2021 | Memory Management | [Link](https://discuss.huggingface.co/t/memory-use-of-gpt-j-6b/10078) |
+| **An Evolved Universal Transformer Memory** | 2024 | Neural Attention Memory Models | [Link](https://arxiv.org/abs/2410.13166) |
+| **Efficient Memory Management for Large Language Model Serving with PagedAttention** | 2023 | PagedAttention | [Link](https://arxiv.org/abs/2309.06180) |
+| **Recurrent Memory Transformer** | 2023 | Recurrent Memory, Long Context Processing | [Link](https://github.com/booydar/recurrent-memory-transformer) |
+| **SwiftTransformer: High Performance Transformer Implementation in C++** | 2023 | Model Parallelism, FlashAttention, PagedAttention | [Link](https://github.com/LLMServe/SwiftTransformer) |
+| **ChronoFormer: Memory-Efficient Transformer for Time Series Analysis** | 2024 | Memory Efficiency, Time Series Data | [Link](https://github.com/kyegomez/ChronoFormer) |
+
 
 ### MoE
 | Article Title | Year | Subfield | Link |
 | --- | --- | --- | --- |
-| **Light-PEFT: Lightening parameter-efficient fine-tuning via early pruning** | 2024 | Fine-Tuning | [Link](https://arxiv.org/abs/2406.03792) |
-| **Minillm: Knowledge distillation of large language models** | 2024 | Knowledge Distillation | [Link](https://openreview.net/forum?id=OdnNBxlShZG) |
+| **Mixtral of Experts** | 2024 | Sparse MoE, Routing Networks | [Link](https://arxiv.org/abs/2401.04088) |
+| **Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts** | 2024 | Time Series, Large-Scale Models | [Link](https://arxiv.org/abs/2409.16040) |
+| **AdaMV-MoE: Adaptive Multi-Task Vision Mixture-of-Experts** | 2024 | Vision, Multi-Task Learning | [Link](https://paperswithcode.com/paper/adamv-moe-adaptive-multi-task-vision-mixture) |
+| **DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding** | 2024 | Vision-Language, Multimodal Models | [Link](https://arxiv.org/abs/2412.10302) |
+| **Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts** | 2024 | Multimodal LLMs, Unified Models | [Link](https://paperswithcode.com/paper/uni-moe-scaling-unified-multimodal-llms-with) |
 
 ## Retrieval-Augmented Models
 
@@ -117,4 +127,5 @@
 | **Sparse-pruning for accelerating transformer models** | 2023 | Pruning and Optimization | [Link](https://arxiv.org/abs/2305.14135) |
 | **Efficient Fine-Tuning and Compression of Large Language Models with Low-Rank Adaptation and Pruning** | 2023 | Fine-Tuning and Compression | [Link](https://arxiv.org/abs/2302.08582) |
 | **Layer-wise Knowledge Distillation for BERT Fine-Tuning** | 2022 | Knowledge Distillation | [Link](https://arxiv.org/abs/2204.05155) |
+| **Light-PEFT: Lightening parameter-efficient fine-tuning via early pruning** | 2024 | Fine-Tuning | [Link](https://arxiv.org/abs/2406.03792) |
 
