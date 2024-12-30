@@ -42,6 +42,7 @@
 | **In-context learning distillation: Transferring few-shot learning ability of pre-trained language models**                | 2022 | Knowledge Distillation | [Link](https://arxiv.org/pdf/2212.10670)            |
 | **Multistage collaborative knowledge distillation from a large language model for semi-supervised sequence generation**    | 2024 | Knowledge Distillation | [Link](https://arxiv.org/pdf/2311.08640)            |
 | **Minillm: Knowledge distillation of large language models**                                                               | 2024 | Knowledge Distillation | [Link](https://openreview.net/forum?id=OdnNBxlShZG) |
+| **Layer-wise Knowledge Distillation for BERT Fine-Tuning**                                              | 2022 | Knowledge Distillation      | [Link](https://arxiv.org/abs/2204.05155)                             |
 
 ### Pruning
 
@@ -179,6 +180,7 @@
 | **BigBird: Transformers for Longer Sequences**                                                          | 2020 | Long-Sequence Transformers     | [Link](https://arxiv.org/abs/2007.14062)                                                             |
 | **SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers**                  | 2021 | Semantic Segmentation          | [Link](https://proceedings.neurips.cc/paper/2021/file/64f1f27bf1b4ec22924fd0acb550c235-Paper.pdf)    |
 | **MixFormerV2: Efficient Fully Transformer Tracking**                                                   | 2023 | Object Tracking                | [Link](https://papers.neurips.cc/paper_files/paper/2023/file/b7870bd43b2d133a1ed95582ae5d82a4-Paper) |
+| **Sparse-pruning for accelerating transformer models**                                                  | 2023 | Pruning and Optimization    | [Link](https://arxiv.org/abs/2305.14135)                             |
 
 ## Model-Sys Co-Design
 
@@ -201,7 +203,12 @@
 | Article Title                                                                                           | Year | Subfield                    | Link                                                                 |
 | ------------------------------------------------------------------------------------------------------- | ---- | --------------------------- | -------------------------------------------------------------------- |
 | **Effective methods for improving interpretability in reinforcement learning models**                   | 2021 | Fine-Tuning                 | [Link](https://link.springer.com/article/10.1007/s10462-021-09984-x) |
-| **Sparse-pruning for accelerating transformer models**                                                  | 2023 | Pruning and Optimization    | [Link](https://arxiv.org/abs/2305.14135)                             |
 | **Efficient Fine-Tuning and Compression of Large Language Models with Low-Rank Adaptation and Pruning** | 2023 | Fine-Tuning and Compression | [Link](https://arxiv.org/abs/2302.08582)                             |
-| **Layer-wise Knowledge Distillation for BERT Fine-Tuning**                                              | 2022 | Knowledge Distillation      | [Link](https://arxiv.org/abs/2204.05155)                             |
 | **Light-PEFT: Lightening parameter-efficient fine-tuning via early pruning**                            | 2024 | Fine-Tuning                 | [Link](https://arxiv.org/abs/2406.03792)                             |
+| **Prefix-Tuning: Optimizing Continuous Prompts for Generation**                                         | 2021 | Prompt Optimization         | [Link](https://arxiv.org/abs/2101.00190)                             |
+| **P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-Tuning Universally Across Scales and Tasks**     | 2021 | Prompt Tuning               | [Link](https://arxiv.org/abs/2110.07602)                             |
+| **Parameter-Efficient Fine-Tuning of Large-Scale Pre-Trained Language Models**                          | 2021 | Parameter-Efficient Tuning  | [Link](https://arxiv.org/abs/2104.08440)                             |
+| **Scaling Sparse Fine-Tuning to Large Language Models**                                                 | 2024 | Sparse Fine-Tuning          | [Link](https://arxiv.org/abs/2401.05024)                             |
+| **Full Parameter Fine-Tuning for Large Language Models with Limited Resources**                         | 2023 | Resource-Constrained Fine-Tuning | [Link](https://arxiv.org/abs/2306.09782)                             |
+| **LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning**           | 2024 | Memory-Efficient Fine-Tuning | [Link](https://arxiv.org/abs/2403.17919)                             |
+
