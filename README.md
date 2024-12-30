@@ -2,6 +2,9 @@
 
 ##### Paper Link: https://arxiv.org/abs/2409.01990
 
+##### Inference Overview
+![Survey Overview](./assets/inference_overview.jpeg "Survey Overview")
+
 ## Model Design
 
 ### Quantization
