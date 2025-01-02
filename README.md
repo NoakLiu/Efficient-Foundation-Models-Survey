@@ -1,9 +1,26 @@
-# Survey on Efficient Large Foundation Model Inference: A Perspective From Model and System Co-Design
+# Survey on Efficient Large Foundation Model: A Perspective From Model and System Co-Design
 
 ## Paper Link: https://arxiv.org/abs/2409.01990
 
-## Inference Overview
-![Survey Overview](./assets/inference_overview.jpeg "Survey Overview")
+## Efficient Foundation Models Overview
+![Survey Overview](./assets/efficient_foundation_models.jpeg "Survey Overview")
+
+1. [Model Design](#model-design)
+    - [Quantization](#quantization)
+    - [Distillation](#distillation)
+    - [Pruning](#pruning)
+2. [System Design](#system-design)
+    - [K-V Cache](#k-v-cache)
+    - [Token Sparsification](#token-sparsification)
+    - [Efficient Cache Eviction](#efficient-cache-eviction)
+    - [Memory Management](#memory-management)
+    - [Efficient Retrieval Augmented Models](#efficient-retrieval-augmented-models)
+    - [Efficient Transformers Architecture Design](#efficient-transformer-architecture-design)
+3. [Model-Sys Co-Design](#model-sys-co-design)
+    - [Mixed Precision Training](#mixed-precision-training)
+    - [Mixture of Expert](#moe)
+    - [Fine-Tuning with System Optimization](#fine-tuning-with-system-optimization)
+    - 
 
 ## Model Design
 
@@ -136,23 +153,8 @@
 | **SwiftTransformer: High Performance Transformer Implementation in C++**                                     | 2023 | Model Parallelism, FlashAttention, PagedAttention | [Link](https://github.com/LLMServe/SwiftTransformer)                  |
 | **ChronoFormer: Memory-Efficient Transformer for Time Series Analysis**                                      | 2024 | Memory Efficiency, Time Series Data               | [Link](https://github.com/kyegomez/ChronoFormer)                      |
 
-### MoE
 
-| Article Title                                                                                     | Year | Subfield                               | Link                                                                                  |
-| ------------------------------------------------------------------------------------------------- | ---- | -------------------------------------- | ------------------------------------------------------------------------------------- |
-| **Mixtral of Experts**                                                                            | 2024 | Sparse MoE, Routing Networks           | [Link](https://arxiv.org/abs/2401.04088)                                              |
-| **Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts**                 | 2024 | Time Series, Large-Scale Models        | [Link](https://arxiv.org/abs/2409.16040)                                              |
-| **AdaMV-MoE: Adaptive Multi-Task Vision Mixture-of-Experts**                                      | 2024 | Vision, Multi-Task Learning            | [Link](https://paperswithcode.com/paper/adamv-moe-adaptive-multi-task-vision-mixture) |
-| **DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding** | 2024 | Vision-Language, Multimodal Models     | [Link](https://arxiv.org/abs/2412.10302)                                              |
-| **Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts**                              | 2024 | Multimodal LLMs, Unified Models        | [Link](https://paperswithcode.com/paper/uni-moe-scaling-unified-multimodal-llms-with) |
-| **DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models**     | 2024 | Language Models, Expert Specialization | [Link](https://arxiv.org/abs/2401.06066)                                              |
-| **OLMoE: Open Mixture-of-Experts Language Models**                                                | 2024 | Language Models, Open-Source MoE       | [Link](https://openreview.net/forum?id=xXTkbTBmqq)                                    |
-| **MH-MoE: Multi-Head Mixture-of-Experts**                                                         | 2024 | Multi-Head Attention, MoE              | [Link](https://arxiv.org/abs/2411.16205)                                              |
-| **Mixture of LoRA Experts**                                                                       | 2024 | Parameter-Efficient Fine-Tuning, MoE   | [Link](https://openreview.net/forum?id=uWvKBCYh4S)                                    |
-| **From Sparse to Soft Mixtures of Experts**                                                       | 2024 | Soft MoE, Differentiable Routing       | [Link](https://openreview.net/forum?id=jxpsAj7ltE)                                    |
-| **A Survey on Mixture of Experts**                                                                | 2024 | Survey, MoE Architectures              | [Link](https://arxiv.org/abs/2407.06204)                                              |
-
-## Efficient Retrieval-Augmented Models
+### Efficient Retrieval-Augmented Models
 
 | Article Title                                                                                     | Year | Subfield                                      | Link                                                      |
 | ------------------------------------------------------------------------------------------------- | ---- | --------------------------------------------- | --------------------------------------------------------- |
@@ -167,7 +169,7 @@
 | **RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit**                                  | 2023 | Toolkit, Model Integration                    | [Link](https://arxiv.org/abs/2306.05212)                  |
 | **Making Retrieval-Augmented Language Models Robust to Irrelevant Documents**                     | 2023 | Model Robustness, Document Relevance          | [Link](https://arxiv.org/abs/2310.01558)                  |
 
-## Efficient Transformer Architecture Design
+### Efficient Transformer Architecture Design
 
 | Article Title                                                                                           | Year | Subfield                       | Link                                                                                                 |
 | ------------------------------------------------------------------------------------------------------- | ---- | ------------------------------ | ---------------------------------------------------------------------------------------------------- |
@@ -186,6 +188,22 @@
 | **Sparse-pruning for accelerating transformer models**                                                  | 2023 | Pruning and Optimization    | [Link](https://arxiv.org/abs/2305.14135)                             |
 
 ## Model-Sys Co-Design
+
+### MoE
+
+| Article Title                                                                                     | Year | Subfield                               | Link                                                                                  |
+| ------------------------------------------------------------------------------------------------- | ---- | -------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Mixtral of Experts**                                                                            | 2024 | Sparse MoE, Routing Networks           | [Link](https://arxiv.org/abs/2401.04088)                                              |
+| **Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts**                 | 2024 | Time Series, Large-Scale Models        | [Link](https://arxiv.org/abs/2409.16040)                                              |
+| **AdaMV-MoE: Adaptive Multi-Task Vision Mixture-of-Experts**                                      | 2024 | Vision, Multi-Task Learning            | [Link](https://paperswithcode.com/paper/adamv-moe-adaptive-multi-task-vision-mixture) |
+| **DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding** | 2024 | Vision-Language, Multimodal Models     | [Link](https://arxiv.org/abs/2412.10302)                                              |
+| **Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts**                              | 2024 | Multimodal LLMs, Unified Models        | [Link](https://paperswithcode.com/paper/uni-moe-scaling-unified-multimodal-llms-with) |
+| **DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models**     | 2024 | Language Models, Expert Specialization | [Link](https://arxiv.org/abs/2401.06066)                                              |
+| **OLMoE: Open Mixture-of-Experts Language Models**                                                | 2024 | Language Models, Open-Source MoE       | [Link](https://openreview.net/forum?id=xXTkbTBmqq)                                    |
+| **MH-MoE: Multi-Head Mixture-of-Experts**                                                         | 2024 | Multi-Head Attention, MoE              | [Link](https://arxiv.org/abs/2411.16205)                                              |
+| **Mixture of LoRA Experts**                                                                       | 2024 | Parameter-Efficient Fine-Tuning, MoE   | [Link](https://openreview.net/forum?id=uWvKBCYh4S)                                    |
+| **From Sparse to Soft Mixtures of Experts**                                                       | 2024 | Soft MoE, Differentiable Routing       | [Link](https://openreview.net/forum?id=jxpsAj7ltE)                                    |
+| **A Survey on Mixture of Experts**                                                                | 2024 | Survey, MoE Architectures              | [Link](https://arxiv.org/abs/2407.06204)                                              |
 
 ### Mixed Precision Training
 
@@ -215,3 +233,18 @@
 | **Full Parameter Fine-Tuning for Large Language Models with Limited Resources**                         | 2023 | Resource-Constrained Fine-Tuning | [Link](https://arxiv.org/abs/2306.09782)                             |
 | **LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning**           | 2024 | Memory-Efficient Fine-Tuning | [Link](https://arxiv.org/abs/2403.17919)                             |
 
+### Efficient Pretraining
+### Efficient Pretraining
+
+| Article Title                                                                                           | Year | Subfield                    | Link                                                                 |
+| ------------------------------------------------------------------------------------------------------- | ---- | --------------------------- | -------------------------------------------------------------------- |
+| **Efficient Continual Pre-training for Building Domain Specific Large Language Models**                 | 2024 | Continual Pretraining       | [Link](https://arxiv.org/abs/2311.08545)                             |
+| **GQKVA: Efficient Pre-training of Transformers by Grouping Queries, Keys, and Values**                 | 2024 | Model Optimization          | [Link](https://arxiv.org/abs/2311.03426)                             |
+| **Towards Effective and Efficient Continual Pre-training of Large Language Models**                     | 2024 | Continual Pretraining       | [Link](https://arxiv.org/abs/2407.18743)                             |
+| **A Survey on Efficient Training of Transformers**                                                      | 2023 | Training Optimization       | [Link](https://arxiv.org/abs/2302.01107)                             |
+| **Jetfire: Efficient and Accurate Transformer Pretraining with INT8 Data Flow and Per-Block Quantization** | 2024 | Quantization Techniques     | [Link](https://arxiv.org/abs/2403.12422)                             |
+| **Efficient Pre-training Objectives for Transformers**                                                  | 2021 | Pretraining Objectives      | [Link](https://arxiv.org/abs/2104.09694)                             |
+| **MixMAE: Mixed and Masked Autoencoder for Efficient Pretraining of Hierarchical Vision Transformers**  | 2022 | Vision Transformers         | [Link](https://arxiv.org/abs/2205.13137)                             |
+| **METRO: Efficient Denoising Pretraining of Large Scale Autoencoding Language Models with Model Generated Signals** | 2022 | Denoising Pretraining       | [Link](https://arxiv.org/abs/2204.06644)                             |
+| **Bucket Pre-training is All You Need**                                                                 | 2024 | Data Composition Strategies | [Link](https://arxiv.org/abs/2407.07495)                             |
+| **FinGPT-HPC: Efficient Pretraining and Finetuning Large Language Models on High Performance Computing Systems** | 2024 | HPC Systems                 | [Link](https://arxiv.org/abs/2402.13533)                             |
