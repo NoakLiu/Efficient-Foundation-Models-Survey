@@ -71,7 +71,6 @@
 | **Metaicl: Learning to learn in context**                                                                                  | 2022 | Knowledge Distillation | [Link](https://arxiv.org/pdf/2110.15943)            |
 | **In-context learning distillation: Transferring few-shot learning ability of pre-trained language models**                | 2022 | Knowledge Distillation | [Link](https://arxiv.org/pdf/2212.10670)            |
 | **Multistage collaborative knowledge distillation from a large language model for semi-supervised sequence generation**    | 2024 | Knowledge Distillation | [Link](https://arxiv.org/pdf/2311.08640)            |
-| **Minillm: Knowledge distillation of large language models**                                                               | 2024 | Knowledge Distillation | [Link](https://openreview.net/forum?id=OdnNBxlShZG) |
 | **Layer-wise Knowledge Distillation for BERT Fine-Tuning**                                                                 | 2022 | Knowledge Distillation | [Link](https://arxiv.org/abs/2204.05155)            |
 
 ### Pruning
