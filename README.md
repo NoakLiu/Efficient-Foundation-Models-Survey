@@ -17,10 +17,10 @@
     - [Efficient Retrieval Augmented Models](#efficient-retrieval-augmented-models)
     - [Efficient Transformers Architecture Design](#efficient-transformer-architecture-design)
 3. [Model-Sys Co-Design](#model-sys-co-design)
-    - [Mixed Precision Training](#mixed-precision-training)
     - [Mixture of Expert](#moe)
+    - [Mixed Precision Training](#mixed-precision-training)
     - [Fine-Tuning with System Optimization](#fine-tuning-with-system-optimization)
-    - 
+    - [Efficient Pretraining](#efficient-pretraining)
 
 ## Model Design
 
@@ -233,7 +233,6 @@
 | **Full Parameter Fine-Tuning for Large Language Models with Limited Resources**                         | 2023 | Resource-Constrained Fine-Tuning | [Link](https://arxiv.org/abs/2306.09782)                             |
 | **LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning**           | 2024 | Memory-Efficient Fine-Tuning | [Link](https://arxiv.org/abs/2403.17919)                             |
 
-### Efficient Pretraining
 ### Efficient Pretraining
 
 | Article Title                                                                                           | Year | Subfield                    | Link                                                                 |
