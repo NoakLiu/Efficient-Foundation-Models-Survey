@@ -43,6 +43,16 @@
 | **Efficientqat: Efficient quantization-aware training for large language models**                                             | 2024 | Quantization | [Link](https://arxiv.org/abs/2407.11062) |
 | **Accurate lora-finetuning quantization of llms via information retention**                                                   | 2024 | Quantization | [Link](https://arxiv.org/abs/2402.05445) |
 | **EdgeQAT: Entropy and Distribution Guided Quantization-Aware Training for the Acceleration of Lightweight LLMs on the Edge** | 2024 | Quantization | [Link](https://arxiv.org/abs/2402.10787) |
+| **Lut-gemm: Quantized matrix multiplication based on luts for efficient inference in large-scale generative language models** | 2022 | Quantization | [Link](https://arxiv.org/pdf/2206.09557) |
+| **SpQR: A sparse-quantized representation for near-lossless llm weight compression**                                          | 2023 | Quantization | [Link](https://arxiv.org/pdf/2306.03078) |
+| **Olive: Accelerating large language models via hardware-friendly outlier victim pair quantization**                          | 2023 | Quantization | [Link](https://arxiv.org/pdf/2304.07493) |
+| **Quip#: Even better llm quantization with hadamard incoherence and lattice codebooks**                                       | 2024 | Quantization | [Link](https://arxiv.org/pdf/2402.04396) |
+| **Zeroquant-v2: Exploring post-training quantization in llms from comprehensive study to low rank compensation**              | 2023 | Quantization | [Link](https://arxiv.org/pdf/2303.08302) |
+| **Smoothquant: Accurate and efficient post-training quantization for large language models**                                  | 2023 | Quantization | [Link](https://arxiv.org/pdf/2211.10438) |
+| **Spinquant–llm quantization with learned rotations**                                                                         | 2024 | Quantization | [Link](https://arxiv.org/pdf/2405.16406) |
+| **Atom: Low-bit quantization for efficient and accurate llm serving**                                                         | 2024 | Quantization | [Link](https://arxiv.org/pdf/2310.19102) |
+| **Flexgen: High-throughput generative inference of large language models with a single gpu**                                  | 2024 | Quantization | [Link](https://arxiv.org/pdf/2303.06865) |
+| **Compression of generative pre-trained language models via quantization**                                                    | 2022 | Quantization | [Link](https://arxiv.org/pdf/2203.10705) |
 
 ### Distillation
 
@@ -62,7 +72,7 @@
 | **In-context learning distillation: Transferring few-shot learning ability of pre-trained language models**                | 2022 | Knowledge Distillation | [Link](https://arxiv.org/pdf/2212.10670)            |
 | **Multistage collaborative knowledge distillation from a large language model for semi-supervised sequence generation**    | 2024 | Knowledge Distillation | [Link](https://arxiv.org/pdf/2311.08640)            |
 | **Minillm: Knowledge distillation of large language models**                                                               | 2024 | Knowledge Distillation | [Link](https://openreview.net/forum?id=OdnNBxlShZG) |
-| **Layer-wise Knowledge Distillation for BERT Fine-Tuning**                                              | 2022 | Knowledge Distillation      | [Link](https://arxiv.org/abs/2204.05155)                             |
+| **Layer-wise Knowledge Distillation for BERT Fine-Tuning**                                                                 | 2022 | Knowledge Distillation | [Link](https://arxiv.org/abs/2204.05155)            |
 
 ### Pruning
 
