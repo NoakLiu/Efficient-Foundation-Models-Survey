@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Survey on Efficient Large Foundation Model: A Perspective From Model and System Co-Design
+=======
+# Survey on Efficient Large Foundation Models: A Perspective From Model and System Co-Design
+>>>>>>> 5502c44b3ff33f6726ba33633c4e6a0cb1ed4f35
 
 ## Paper Link: https://arxiv.org/abs/2409.01990
 
