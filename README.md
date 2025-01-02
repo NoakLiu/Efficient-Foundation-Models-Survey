@@ -1,4 +1,4 @@
-# Survey on Efficient Large Foundation Model Inference: A Perspective From Model and System Co-Design
+# Survey on Efficient Large Foundation Models: A Perspective From Model and System Co-Design
 
 ## Paper Link: https://arxiv.org/abs/2409.01990
 
