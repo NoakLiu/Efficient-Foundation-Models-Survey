@@ -239,8 +239,8 @@
 | **P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-Tuning Universally Across Scales and Tasks**     | 2021 | Prompt Tuning               | [Link](https://arxiv.org/abs/2110.07602)                             |
 | **Parameter-Efficient Fine-Tuning of Large-Scale Pre-Trained Language Models**                          | 2021 | Parameter-Efficient Tuning  | [Link](https://arxiv.org/abs/2104.08440)                             |
 | **Scaling Sparse Fine-Tuning to Large Language Models**                                                 | 2024 | Sparse Fine-Tuning          | [Link](https://arxiv.org/abs/2401.05024)                             |
-| **Full Parameter Fine-Tuning for Large Language Models with Limited Resources**                         | 2023 | Resource-Constrained Fine-Tuning | [Link](https://arxiv.org/abs/2306.09782)                             |
-| **LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning**           | 2024 | Memory-Efficient Fine-Tuning | [Link](https://arxiv.org/abs/2403.17919)                             |
+| **Full Parameter Fine-Tuning for Large Language Models with Limited Resources**                         | 2023 | Resource-Constrained Fine-Tuning | [Link](https://arxiv.org/abs/2306.09782)                        |
+| **LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning**           | 2024 | Memory-Efficient Fine-Tuning | [Link](https://arxiv.org/abs/2403.17919)                            |
 
 ### Efficient Pretraining
 
@@ -250,9 +250,9 @@
 | **GQKVA: Efficient Pre-training of Transformers by Grouping Queries, Keys, and Values**                 | 2024 | Model Optimization          | [Link](https://arxiv.org/abs/2311.03426)                             |
 | **Towards Effective and Efficient Continual Pre-training of Large Language Models**                     | 2024 | Continual Pretraining       | [Link](https://arxiv.org/abs/2407.18743)                             |
 | **A Survey on Efficient Training of Transformers**                                                      | 2023 | Training Optimization       | [Link](https://arxiv.org/abs/2302.01107)                             |
-| **Jetfire: Efficient and Accurate Transformer Pretraining with INT8 Data Flow and Per-Block Quantization** | 2024 | Quantization Techniques     | [Link](https://arxiv.org/abs/2403.12422)                             |
+| **Jetfire: Efficient and Accurate Transformer Pretraining with INT8 Data Flow and Per-Block Quantization** | 2024 | Quantization Techniques     | [Link](https://arxiv.org/abs/2403.12422)                          |
 | **Efficient Pre-training Objectives for Transformers**                                                  | 2021 | Pretraining Objectives      | [Link](https://arxiv.org/abs/2104.09694)                             |
 | **MixMAE: Mixed and Masked Autoencoder for Efficient Pretraining of Hierarchical Vision Transformers**  | 2022 | Vision Transformers         | [Link](https://arxiv.org/abs/2205.13137)                             |
-| **METRO: Efficient Denoising Pretraining of Large Scale Autoencoding Language Models with Model Generated Signals** | 2022 | Denoising Pretraining       | [Link](https://arxiv.org/abs/2204.06644)                             |
+| **METRO: Efficient Denoising Pretraining of Large Scale Autoencoding Language Models with Model Generated Signals** | 2022 | Denoising Pretraining       | [Link](https://arxiv.org/abs/2204.06644)                 |
 | **Bucket Pre-training is All You Need**                                                                 | 2024 | Data Composition Strategies | [Link](https://arxiv.org/abs/2407.07495)                             |
-| **FinGPT-HPC: Efficient Pretraining and Finetuning Large Language Models on High Performance Computing Systems** | 2024 | HPC Systems                 | [Link](https://arxiv.org/abs/2402.13533)                             |
+| **FinGPT-HPC: Efficient Pretraining and Finetuning Large Language Models on High Performance Computing Systems** | 2024 | HPC Systems                 | [Link](https://arxiv.org/abs/2402.13533)                    |
