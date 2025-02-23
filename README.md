@@ -71,13 +71,13 @@
 | **QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs**                                                                | 2024 | 4-bit, Outlier-free       | [Link](https://arxiv.org/abs/2404.00456)             |
 | **Binary Diffusion: Experimental Binarization for Generative Models**                                                   | 2025 | 1-bit, Generative Models  | [Link](https://arxiv.org/abs/2502.03001)             |
 | **RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**             | 2025 | 2-bit, KV Cache           | [Link](https://arxiv.org/abs/2501.16383)             |
-| **Integer or Floating Point? New Outlooks for Low-Bit Quantization on Large Language Models**                            | 2024 | Low-bit Quantization      | [Link](https://arxiv.org/abs/2402.01234)             |
+| **Integer or Floating Point? New Outlooks for Low-Bit Quantization on Large Language Models**                           | 2024 | Low-bit Quantization      | [Link](https://arxiv.org/abs/2402.01234)             |
 | **GPTQ: Accurate Post-Training Quantization for Generative Pretrained Transformers**                                    | 2022 | 4-bit PTQ, Transformers   | [Link](https://arxiv.org/abs/2208.07339)             |
 | **AWQ: Activation-Aware Weight Quantization for LLM Compression and Acceleration**                                      | 2023 | Activation-aware PTQ      | [Link](https://arxiv.org/abs/2306.00978)             |
 | **SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models**                            | 2022 | INT8, FP8 Hybrid          | [Link](https://arxiv.org/abs/2211.10438)             |
 | **RPTQ: Reorder-Based Post-Training Quantization**                                                                      | 2023 | Reorder-based PTQ         | [Link](https://arxiv.org/abs/2308.09812)             |
 | **DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients**                         | 2016 | Low-bit Training          | [Link](https://arxiv.org/abs/1606.06160)             |
-| **Q-Diffusion: Quantization-Aware Training for Diff**
+| **Q-Diffusion: Quantization-Aware Training for Diff**                                                                   | 2023 | QAT; Diffusion            | [Link](https://arxiv.org/abs/2302.04304)             |
 
 
 ### Distillation
