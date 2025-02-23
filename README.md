@@ -3,7 +3,7 @@
 ## Paper Link: https://arxiv.org/abs/2409.01990
 
 ## Efficient Foundation Models Overview
-![Survey Overview](./assets/efficient_foundation_models.jpeg "Survey Overview")
+![Survey Overview](./assets/lfm_co-design_taxomony.jpeg "Survey Overview")
 
 1. [Model Design](#model-design)
     - [Quantization](#quantization)
