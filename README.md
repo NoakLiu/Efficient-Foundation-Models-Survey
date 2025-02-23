@@ -53,6 +53,32 @@
 | **Atom: Low-bit quantization for efficient and accurate llm serving**                                                         | 2024 | Quantization | [Link](https://arxiv.org/pdf/2310.19102) |
 | **Flexgen: High-throughput generative inference of large language models with a single gpu**                                  | 2024 | Quantization | [Link](https://arxiv.org/pdf/2303.06865) |
 | **Compression of generative pre-trained language models via quantization**                                                    | 2022 | Quantization | [Link](https://arxiv.org/pdf/2203.10705) |
+| **Efficient 8-bit Quantization for Transformers**                                                                       | 2022 | INT8                      | [Link](https://arxiv.org/abs/2202.08435)             |
+| **F8Net: Fixed-point 8-bit Only Multiplication for Network Quantization**                                               | 2022 | INT8                      | [Link](https://arxiv.org/abs/2202.05239)             |
+| **SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models**                            | 2022 | INT8/FP8                  | [Link](https://arxiv.org/abs/2211.10438)             |
+| **LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale**                                                   | 2022 | INT8                      | [Link](https://arxiv.org/abs/2208.07339)             |
+| **AKVQ-VL: Attention-Aware KV Cache Adaptive 2-Bit Quantization for Vision-Language Models**                             | 2025 | 2-bit, KV Cache           | [Link](https://arxiv.org/abs/2501.15021)             |
+| **Efficient Post-Training Quantization with FP8 Formats**                                                               | 2023 | FP8                       | [Link](https://arxiv.org/abs/2310.07822)             |
+| **Mixed Precision Training with FP8**                                                                                   | 2023 | FP8                       | [Link](https://arxiv.org/abs/2311.04999)             |
+| **Hybrid 8-bit Floating Point (HFP8) Training**                                                                         | 2023 | FP8                       | [Link](https://arxiv.org/abs/2312.07834)             |
+| **Qrazor: Reliable and Effortless 4-bit LLM Quantization by Significant Data Razoring**                                 | 2025 | 4-bit                     | [Link](https://arxiv.org/abs/2501.13331)             |
+| **LLM-FP4: 4-Bit Floating-Point Quantized Transformers**                                                                | 2023 | FP4                       | [Link](https://arxiv.org/abs/2310.16836)             |
+| **BiDM: Pushing the Limit of Quantization for Diffusion Models**                                                        | 2024 | 1-bit, Diffusion Models   | [Link](https://arxiv.org/abs/2412.05926)             |
+| **Q-Diffusion: Quantization-Aware Training for Diffusion Models**                                                       | 2023 | QAT, Diffusion Models     | [Link](https://arxiv.org/abs/2312.09999)             |
+| **Atom: Low-Bit Quantization for Efficient LLM Serving**                                                                | 2023 | Low-bit LLM               | [Link](https://arxiv.org/abs/2311.04567)             |
+| **GPTQ: Accurate Post-Training Quantization for Generative Pretrained Transformers**                                    | 2022 | 4-bit, PTQ                | [Link](https://arxiv.org/abs/2208.07339)             |
+| **AWQ: Activation-Aware Weight Quantization for LLM Compression and Acceleration**                                      | 2023 | 4-bit, Activation-aware   | [Link](https://arxiv.org/abs/2306.00978)             |
+| **QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs**                                                                | 2024 | 4-bit, Outlier-free       | [Link](https://arxiv.org/abs/2404.00456)             |
+| **Binary Diffusion: Experimental Binarization for Generative Models**                                                   | 2025 | 1-bit, Generative Models  | [Link](https://arxiv.org/abs/2502.03001)             |
+| **RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**             | 2025 | 2-bit, KV Cache           | [Link](https://arxiv.org/abs/2501.16383)             |
+| **Integer or Floating Point? New Outlooks for Low-Bit Quantization on Large Language Models**                            | 2024 | Low-bit Quantization      | [Link](https://arxiv.org/abs/2402.01234)             |
+| **GPTQ: Accurate Post-Training Quantization for Generative Pretrained Transformers**                                    | 2022 | 4-bit PTQ, Transformers   | [Link](https://arxiv.org/abs/2208.07339)             |
+| **AWQ: Activation-Aware Weight Quantization for LLM Compression and Acceleration**                                      | 2023 | Activation-aware PTQ      | [Link](https://arxiv.org/abs/2306.00978)             |
+| **SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models**                            | 2022 | INT8, FP8 Hybrid          | [Link](https://arxiv.org/abs/2211.10438)             |
+| **RPTQ: Reorder-Based Post-Training Quantization**                                                                      | 2023 | Reorder-based PTQ         | [Link](https://arxiv.org/abs/2308.09812)             |
+| **DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients**                         | 2016 | Low-bit Training          | [Link](https://arxiv.org/abs/1606.06160)             |
+| **Q-Diffusion: Quantization-Aware Training for Diff**
+
 
 ### Distillation
 
